@@ -5,7 +5,7 @@ export default function FotoPerfil() {
     return (
         <Image
             source={require('../img/base.jpg')}
-            style={{ width: 100, height: 100, borderRadius: 50, marginBottom: 10, marginLeft: '38.5dvw'}}
+            style={{ width: 120, height: 120, borderRadius: 50, marginTop: 10, marginLeft: '36dvw'}}
         />
     );
 }

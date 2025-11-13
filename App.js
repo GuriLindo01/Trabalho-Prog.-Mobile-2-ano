@@ -5,6 +5,9 @@ import Saudacao from "./componentes/Saudacao";
 import FotoPerfil from "./componentes/FotoPerfil";
 import CartaoUsuario from "./componentes/CartaoUsuario";
 
+const bodyElement = document.body;
+
+
 export default function App() {
   return <ScrollView>
     <Titulo />
