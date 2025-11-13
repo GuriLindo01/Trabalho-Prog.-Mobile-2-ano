@@ -3,8 +3,8 @@ import { Text } from "react-native";
 
 export default function Titulo() {
     return (
-        <Text style={{ fontSize: 24, fontWeight: 'bold', marginTop: 10 }}>
-            Bem-Vindo ao React Native!
+        <Text style={{ fontSize: 24, fontWeight: 'bold', marginTop: 10, marginLeft: 100}}>
+            Bem-Vindo a Redes!
         </Text>
 
     )
